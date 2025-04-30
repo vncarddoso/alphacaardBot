@@ -21,10 +21,14 @@ Lista curta das principais funções do bot.
 ### Adicione o bot no seu servidor
 
 > [**Clique aqui**](https://discord.com/oauth2/authorize?client_id=1329843971081637999) para adicionar o Alphacaard.
-> Caso tenha dúvidas ou precise de algo, entre no [servidor de suporte](https://discord.gg/ZK7849p9Sd)!
+Caso tenha dúvidas ou precise de algo, entre no [servidor de suporte](https://discord.gg/ZK7849p9Sd)!
 
 > **Alphacaard** está em versão **beta** ainda, não ficará on-line 24 horas.
 
+<br>
+<br>
+
+---
 
 <p>
 <p align="center">
