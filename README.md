@@ -3,34 +3,29 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/REPOSIT%C3%93RIO%20EM%20MANUTEN%C3%87%C3%83O-MAINTENCE?style=for-the-badge&color=red">
 </p>
 
-> **Alphacaard** é um **bot multi-funções** para **Discord** desenvolvido apenas para minha prática da linguagem **Python**.
+ **Alphacaard** é um **bot multi-funções** para **Discord** desenvolvido apenas para prática enquanto aprendia a linguagem **Python**.
 
----
+## Funcionalidades
 
-## 📌 Funcionalidades
+Lista curta das principais funções do bot.  
 
-✅ Lista curta das principais funções do bot.  
+- Responde automaticamente a mensagens no Discord.  
+- Executa comandos personalizados.
+- Moderação para seu servidor.  
 
-- 🚀 Responde automaticamente a mensagens no Discord.  
-- 🔄 Executa comandos personalizados.
-- 🛠️ Moderação para seu servidor.  
-
-## 👾 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Linguagem: ``Python``  
 - Biblioteca: ``discord.py``
 
-## 📦 Adicione o bot no seu servidor
+### Adicione o bot no seu servidor
 
-- > [**Clique aqui**](https://discord.com/oauth2/authorize?client_id=1329843971081637999) para adicionar.
-- Caso tenha dúvidas, entre no [servidor de suporte](https://discord.gg/ZK7849p9Sd)
+> [**Clique aqui**](https://discord.com/oauth2/authorize?client_id=1329843971081637999) para adicionar o Alphacaard.
+> Caso tenha dúvidas ou precise de algo, entre no [servidor de suporte](https://discord.gg/ZK7849p9Sd)!
 
-<br>
-<br>
+> **Alphacaard** está em versão **beta** ainda, não ficará on-line 24 horas.
 
-> **Alphacaard está em versão beta ainda, não ficará on-line 24 horas.**
 
----
 <p>
 <p align="center">
     <a href="https://discord.gg/ZK7849p9Sd" target="_blank">
